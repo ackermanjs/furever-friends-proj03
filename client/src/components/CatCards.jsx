@@ -13,26 +13,27 @@ import Container from "react-bootstrap/Container";
 import "../components/CatCards.css";
 
 const CatCards = () => {
-//   const [cats, setCats] = useState([]);
-//   const {loading, data} = useQuery(QUERY_ME);
-//   const userData =data?.me;
-//   // console.log(userData);
+  //   const [cats, setCats] = useState([]);
+  //   const {loading, data} = useQuery(QUERY_ME);
+  //   const userData =data?.me;
+  //   // console.log(userData);
 
   return (
-<Container className="cat-card-cont">
+    <Container className="cat-card-cont">
       <Row>
         <Col>
           <Card className="shadow-lg text-center" style={{ width: "25rem" }}>
             <Card.Img variant="top" src={WhiskeyAvatar} />
             <Card.Body>
               <Card.Title>Whiskey</Card.Title>
-              <Card.Text>
-              </Card.Text>
-              <Button href="/whiskeycat" variant="primary">Rescue Me</Button>
+              <Card.Text></Card.Text>
+              <Button href="/whiskeycat" variant="primary">
+                Rescue Me
+              </Button>
             </Card.Body>
             <Card.Footer>
-          <small className="text-muted">Status: Ready for Adoption</small>
-        </Card.Footer>
+              <small className="text-muted">Status: Ready for Adoption</small>
+            </Card.Footer>
           </Card>
         </Col>
         <Col>
@@ -40,13 +41,14 @@ const CatCards = () => {
             <Card.Img variant="top" src={MiloAvatar} />
             <Card.Body>
               <Card.Title>Milo</Card.Title>
-              <Card.Text>
-              </Card.Text>
-              <Button href="/milocat" variant="primary">Rescue Me</Button>
+              <Card.Text></Card.Text>
+              <Button href="/milocat" variant="primary">
+                Rescue Me
+              </Button>
             </Card.Body>
             <Card.Footer>
-          <small className="text-muted">Status: Ready for Adoption</small>
-        </Card.Footer>
+              <small className="text-muted">Status: Ready for Adoption</small>
+            </Card.Footer>
           </Card>
         </Col>
         <Col>
@@ -54,16 +56,19 @@ const CatCards = () => {
             <Card.Img variant="top" src={OliverAvatar} />
             <Card.Body>
               <Card.Title>Oliver</Card.Title>
-              <Card.Text>
-              </Card.Text>
-              <Button href="/olivercat" variant="primary">Rescue Me</Button>
-            </Card.Body><Card.Footer>
-          <small className="text-muted">Status: Ready for Adoption</small>
-        </Card.Footer>
+              <Card.Text></Card.Text>
+              <Button href="/olivercat" variant="primary">
+                Rescue Me
+              </Button>
+            </Card.Body>
+            <Card.Footer>
+              <small className="text-muted">Status: Ready for Adoption</small>
+            </Card.Footer>
           </Card>
         </Col>
       </Row>
-    </Container>  )
-}
+    </Container>
+  );
+};
 
-export default CatCards
+export default CatCards;

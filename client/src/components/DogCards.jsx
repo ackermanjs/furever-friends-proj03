@@ -19,13 +19,14 @@ const DogCards = () => {
             <Card.Img variant="top" src={LunaAvatar} />
             <Card.Body>
               <Card.Title>Luna</Card.Title>
-              <Card.Text>
-              </Card.Text>
-              <Button href="/lunadog" variant="primary">Rescue Me</Button>
+              <Card.Text></Card.Text>
+              <Button href="/lunadog" variant="primary">
+                Rescue Me
+              </Button>
             </Card.Body>
             <Card.Footer>
-          <small className="text-muted">Status: Ready for Adoption</small>
-        </Card.Footer>
+              <small className="text-muted">Status: Ready for Adoption</small>
+            </Card.Footer>
           </Card>
         </Col>
         <Col>
@@ -33,13 +34,14 @@ const DogCards = () => {
             <Card.Img variant="top" src={LokiAvatar} />
             <Card.Body>
               <Card.Title>Loki</Card.Title>
-              <Card.Text>
-              </Card.Text>
-              <Button href="/lokidog" variant="primary">Rescue Me</Button>
+              <Card.Text></Card.Text>
+              <Button href="/lokidog" variant="primary">
+                Rescue Me
+              </Button>
             </Card.Body>
             <Card.Footer>
-          <small className="text-muted">Status: Ready for Adoption</small>
-        </Card.Footer>
+              <small className="text-muted">Status: Ready for Adoption</small>
+            </Card.Footer>
           </Card>
         </Col>
         <Col>
@@ -47,12 +49,14 @@ const DogCards = () => {
             <Card.Img variant="top" src={CharlieAvatar} />
             <Card.Body>
               <Card.Title>Charlie</Card.Title>
-              <Card.Text>
-              </Card.Text>
-              <Button href="/charliedog" variant="primary">Rescue Me</Button>
-            </Card.Body><Card.Footer>
-          <small className="text-muted">Status: Ready for Adoption</small>
-        </Card.Footer>
+              <Card.Text></Card.Text>
+              <Button href="/charliedog" variant="primary">
+                Rescue Me
+              </Button>
+            </Card.Body>
+            <Card.Footer>
+              <small className="text-muted">Status: Ready for Adoption</small>
+            </Card.Footer>
           </Card>
         </Col>
       </Row>

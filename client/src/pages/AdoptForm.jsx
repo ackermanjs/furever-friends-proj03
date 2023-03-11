@@ -6,7 +6,6 @@ import Form from "react-bootstrap/Form";
 import Card from "react-bootstrap/Card";
 
 const AdoptForm = () => {
-  
   const [userFormData, setData] = useState({
     first_name: "",
     last_name: "",
@@ -37,7 +36,10 @@ const AdoptForm = () => {
               </Form.Group>
               <Form.Group className="mb-3" controlId="formBasicPhone">
                 <Form.Label>Phone Number</Form.Label>
-                <Form.Control type="phone" placeholder="Enter Primary Contact" />
+                <Form.Control
+                  type="phone"
+                  placeholder="Enter Primary Contact"
+                />
                 <Form.Text className="text-muted"></Form.Text>
               </Form.Group>
               <Form.Group className="mb-3" controlId="formAddress">

@@ -20,15 +20,15 @@
   .catcardopened-title {
     font-size: 52px;
   } */
-  /* Full size this width and above (until I hit the other breakpoints) */
-  @media only screen and (min-width: 391px) {
-    .catcardopened-section {
-      background-image: url(../images/Proj.03\ CatCardSingleDisplay.png);
-    }
+/* Full size this width and above (until I hit the other breakpoints) */
+@media only screen and (min-width: 391px) {
+  .catcardopened-section {
+    background-image: url(../images/Proj.03\ CatCardSingleDisplay.png);
   }
-  /* iPhone 12 Pro Mobile 390 x 844 */
-  @media only screen and (max-width: 390px) {
-    .catcardopened-section {
-      background-image: url(../images/Responsive-iPhone12pro/390\ x\ 844\ Cat\ Single.png)
-    }
+}
+/* iPhone 12 Pro Mobile 390 x 844 */
+@media only screen and (max-width: 390px) {
+  .catcardopened-section {
+    background-image: url(../images/Responsive-iPhone12pro/390\ x\ 844\ Cat\ Single.png);
   }
+}

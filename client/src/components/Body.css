@@ -25,6 +25,6 @@
 /* iPhone 12 Pro Mobile 390 x 844 */
 @media only screen and (max-width: 390px) {
   .body-section {
-    background-image: url(../images/Responsive-iPhone12pro/390\ x\ 844\ Body.png)
+    background-image: url(../images/Responsive-iPhone12pro/390\ x\ 844\ Body.png);
   }
 }

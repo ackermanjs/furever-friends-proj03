@@ -21,7 +21,6 @@ import WhiskeyCatCardOpened from "./pages/WhiskeyCatCardOpened";
 import AdoptForm from "./pages/AdoptForm";
 import TopNav from "./components/TopNav";
 
-
 const client = new ApolloClient({
   uri: "/graphql",
   cache: new InMemoryCache(),
@@ -31,7 +30,7 @@ function App() {
   return (
     <ApolloProvider client={client}>
       <Router>
-      <TopNav />
+        <TopNav />
         <Routes>
           <Route path="/about" element={<About />} />
           <Route path="/cats" element={<Cats />} />

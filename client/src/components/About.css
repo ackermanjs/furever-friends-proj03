@@ -22,12 +22,12 @@
 /* Full size this width and above (until I hit the other breakpoints) */
 @media only screen and (min-width: 391px) {
   .about-section {
-    background-image: url(../images/Proj.03\ AboutUs.png)
+    background-image: url(../images/Proj.03\ AboutUs.png);
   }
 }
 /* iPhone 12 Pro Mobile 390 x 844 */
 @media only screen and (max-width: 390px) {
   .about-section {
-    background-image: url(../images/Responsive-iPhone12pro/About-390x844.png)
+    background-image: url(../images/Responsive-iPhone12pro/About-390x844.png);
   }
 }

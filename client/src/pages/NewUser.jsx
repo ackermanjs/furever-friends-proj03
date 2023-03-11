@@ -6,7 +6,6 @@ import Form from "react-bootstrap/Form";
 import Card from "react-bootstrap/Card";
 
 const NewUser = () => {
-  
   const [userFormData, setData] = useState({
     first_name: "",
     last_name: "",
