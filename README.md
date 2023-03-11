@@ -58,6 +58,8 @@ This code is still being debugged.
 - React Router
 - React-Bootstrap
 - Apollo
+- GraphQL
+- Mongo
 - Rescue.org's API was intended to be used, but not yet implenented.
 
 ## Installation
@@ -93,7 +95,7 @@ If you find any errors with this application, please let us know by sending us a
 
 ## Credits
 
-This application was made to run in [node.js](https://nodejs.org/)with [react] (https://reactnative.dev/) for the frontend and [graphql] (https://graphql.org/), [mongoose] (https://mongoosejs.com/) for the database  [express-session](https://www.npmjs.com/package/express-session) for handling the cookie (never eat raw cookies,) [bcrypt](https://www.npmjs.com/package/bcrypt) to encrypt passwords, [dotenv](https://www.npmjs.com/package/dotenv) for environment variable storage, , [tailwindcss](https://tailwindcss.com/) for styling,  and [jawsDB](https://www.jawsdb.com/) for database services.
+This application was made to run in [node.js](https://nodejs.org/)with [react] (https://reactnative.dev/) for the frontend and [graphql] (https://graphql.org/), [mongoose] (https://mongoosejs.com/) for the database  [express-session](https://www.npmjs.com/package/express-session) for handling the cookie (never eat raw cookies,) [bcrypt](https://www.npmjs.com/package/bcrypt) to encrypt passwords, [dotenv](https://www.npmjs.com/package/dotenv) for environment variable storage,  and [jawsDB](https://www.jawsdb.com/) for database services.
 
 ## License
 
