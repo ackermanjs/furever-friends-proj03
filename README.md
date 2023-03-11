@@ -76,7 +76,8 @@ Clone the repo to you desktop. Open with VSCode. Run NMP I from the client direc
 
 This application is still in development stages. If you have any questions about this application send us a message on [github](https://github.com/).
 <br>
-(https://github.com/) repo's for: 
+The team's individual repo links can be found here:
+<br>
  - Jeffrey Ackerman - This current Hub and Repo.
  - Austin Bennett- https://github.com/awb157
  - Alec Summers- https://github.com/asummers7
