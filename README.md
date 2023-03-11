@@ -6,7 +6,15 @@ This is a fresh repository that was created due to some major version control is
 
 <br>
 
-For the sake of viewing progress and contribution/ commits, you can view the original repository here: https://github.com/ackermanjs/Furever-Friends-Proj.-03. The main branch on this repo has been destroyed and is no longer an accurate example of our project. Use that repo for checking progress and use this repo for the actual functional project.
+For the sake of viewing progress and contribution/ commits, you can view the original repository here:
+
+<br>
+
+https://github.com/ackermanjs/Furever-Friends-Proj.-03 
+
+<br>
+
+The main branch on the above mentioned repo has been destroyed and is no longer an accurate example of our project. Use that repo <i>ONLY</i> for checking progress and use this repo for the actual functional project.
 
 ## Description
 
