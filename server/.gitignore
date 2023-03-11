@@ -26,3 +26,4 @@ yarn-error.log*
 npm-debug.log
 .DS_Store
 /*.env
+node_modules
