@@ -75,12 +75,12 @@ Clone the repo to you desktop. Open with VSCode. Run NMP I from the client direc
 ## Questions
 
 This application is still in development stages. If you have any questions about this application send us a message on [github](https://github.com/).
-
-[github](https://github.com/) repo's for: 
- -Jeffrey Ackerman - This current Hub and Repo.
- -Austin Bennett- https://github.com/awb157
- -Alec Summers- https://github.com/asummers7
- -Rhonda Van Dam- https://github.com/Rhondoid
+<br>
+(https://github.com/) repo's for: 
+ - Jeffrey Ackerman - This current Hub and Repo.
+ - Austin Bennett- https://github.com/awb157
+ - Alec Summers- https://github.com/asummers7
+ - Rhonda Van Dam- https://github.com/Rhondoid
 
 ## How to Contribute
 
