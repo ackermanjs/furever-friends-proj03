@@ -1,10 +1,12 @@
 const db = require('../config/connection');
-const { Tech } = require('../models');
+const { User, Animal } = require('../models');
+const catsSeeds = require('./catsSeeds.json');
+const dogsSeeds = require('./dogsSeeds.json');
 
-const techData = require('./techData.json');
 
 db.once('open', async () => {
-  await Tech.deleteMany({});
+  await User.deleteMany({});
+  await Animal.deleteMany({});
 
   const technologies = await Tech.insertMany(techData);
 
